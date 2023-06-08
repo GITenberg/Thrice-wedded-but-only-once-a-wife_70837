@@ -1,0 +1,38 @@
+_repo: Thrice-wedded-but-only-once-a-wife_70837
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sheldon, Georgie, Mrs.
+    aliases:
+    - Downs, Sarah Elizabeth Forbush
+    - Sheldon, Mrs. Georgie
+    birthdate: 1843
+    deathdate: 1926
+    gutenberg_agent_id: '3912'
+    url: http://www.gutenberg.org/2009/agents/3912
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/50374
+    - https://en.wikipedia.org/wiki/Sarah_Elizabeth_Forbush_Downs
+description: ''
+gutenberg_issued: '2023-05-23'
+identifiers:
+  gutenberg: '70837'
+  lccn: '07003636'
+language: en
+pgterms:marc904: https://archive.org/details/thriceweddedbuto00shel
+pgterms:marc905: 20210510190210sheldon
+pgterms:marc906: '1891'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bStreet & Smith, $c1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dime novels'
+- !lcsh 'Romance fiction'
+- !lcc 'PS'
+- GITenberg
+title: Thrice wedded, but only once a wife
+url: http://www.gutenberg.org/ebooks/70837
